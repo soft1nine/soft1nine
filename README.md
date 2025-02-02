@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soft1nine
 - 👀 I’m still alive
-- 🌱 I’m currently learning phython
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ..... idk im lazy maybe discord or smting
 
